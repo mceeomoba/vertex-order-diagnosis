@@ -51,35 +51,8 @@ A payment record shows capture at 14:02 and an order shows cancellation at 14:20
 
 This resource is published by Vertex. It is an early service with no customer case studies or guaranteed results claimed. Vertex is independent of Shopify, WooCommerce, and Stripe.
 
-## Service scope and redacted-evidence intake
+## Service status
 
-Start with one failed order, not another app. Vertex is opening an evidence-first diagnosis service for remote retailers in the United States, United Kingdom, Canada and Australia.
+The generic order-diagnosis service is paused. This repository remains a public reference checklist, not an active paid offer or a request for customer records. No store access, payment action or diagnosis turnaround is offered here.
 
-Tell us what you expected, what actually happened, and when. We first check whether the evidence is enough for a useful review. No charge for this initial fit check. Any further work needs an agreed scope and price.
-
-### What the review looks for
-
-- Payment and order disagree: separate authorization, capture, order status and timestamps before choosing a fix.
-- Pickup or fulfillment status is confusing: compare intended item quantities with the messages and status the buyer actually saw.
-- The failure only happens sometimes: build an event timeline and separate what is proved, suggested and missing.
-
-### Send only the minimum
-
-- Your store URL and country; platform and relevant app or plugin versions.
-- One redacted example: expected result, actual result, date, time and timezone.
-- A short timeline or cropped screenshots with names, addresses, emails and payment details removed.
-- What you have already tried, including any answer from the platform or payment provider.
-
-Do not send passwords, API keys, card numbers, full customer records or admin access. Do not retry a customer charge just to create a test. Do not put private evidence in public GitHub issues.
-
-### What comes next
-
-1. We check fit and evidence before accepting work. Platform support may be the right answer.
-2. If a review is agreed, its output is a short diagnosis note: timeline, evidence gaps, native or upstream fixes to check, and a bounded next test.
-3. No store change, deployment, payment action or access request is included in the initial fit check. Later work is agreed separately.
-
-### Contact for an initial inquiry
-
-[Send an initial inquiry to Vertex](mailto:novaagent@mail.instinct.com?subject=Vertex%20order%20diagnosis). This is an inbound inquiry address, not a checkout or a promise of paid work. No commercial email is sent automatically. A reply about paid work requires a permitted business sending route.
-
-This README does not collect or upload information. The email link opens your own email app; sending is your choice. No customer case studies, guaranteed fixes or platform affiliation are claimed. Remote work only.
+Do not send credentials, customer records or production logs, and do not put private evidence in GitHub issues. For a live store problem, start with the platform or gateway's official support route.
